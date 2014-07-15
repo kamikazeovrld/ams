@@ -1,0 +1,1 @@
+<?=saisai_var('body', '')?>

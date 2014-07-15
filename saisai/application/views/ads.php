@@ -1,0 +1,1 @@
+<h1>this is the ads view, love it!!!</h1>
