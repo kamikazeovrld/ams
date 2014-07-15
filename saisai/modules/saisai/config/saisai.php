@@ -1,16 +1,16 @@
 <?php
 /**
  * SAISAI CMS
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
  *
  * @package		SAISAI CMS
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getsaisaicms.com/general/license
- * @link		http://www.getsaisaicms.com
+ * @license		http://docs.getfuelcms.com/general/license
+ * @link		http://www.getfuelcms.com
  * @filesource
  */
 
@@ -22,8 +22,8 @@
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
- * @link		http://docs.getsaisaicms.com/general/configuration
+ * @author		Jabulani Mpofu @ Saisai
+ * @link		http://docs.getfuelcms.com/general/configuration
  */
 
 /*
@@ -95,7 +95,7 @@ $config['keyboard_shortcuts'] = array(
 $config['dashboards'] = array('saisai');
 
 // dashboard rss
-$config['dashboard_rss'] = 'http://www.getsaisaicms.com/blog/feed/rss';
+$config['dashboard_rss'] = 'http://www.getfuelcms.com/blog/feed/rss';
 
 // text editor settings... options are markitup or ckeditor
 $config['text_editor'] = 'markitup';

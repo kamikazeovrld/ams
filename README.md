@@ -1,5 +1,5 @@
 # SAISAI CMS
-SAISAI CMS is a [CodeIgniter](http://ellislab.com/codeigniter) based content management system. To learn more about its features visit: http://www.getsaisaicms.com
+SAISAI CMS is a [CodeIgniter](http://ellislab.com/codeigniter) based content management system. To learn more about its features visit: http://www.getfuelcms.com
 
 ### Installation
 To install SAISAI CMS, copy the contents of this folder to a web accessible
@@ -7,7 +7,7 @@ folder and browse to the index.php file. Next, follow the directions on the
 screen. 
 
 ### Documentation
-To access the documentation, you can visit it [here](http://docs.getsaisaicms.com).
+To access the documentation, you can visit it [here](http://docs.getfuelcms.com).
 
 ### Bugs
 To file a bug report, go to the [issues](http://github.com/daylightstudio/SAISAI-CMS/issues) page.

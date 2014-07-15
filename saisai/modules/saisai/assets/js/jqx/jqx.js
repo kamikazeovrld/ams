@@ -1,10 +1,10 @@
 /**
  * JQX Framework
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * A lightweight javascript MVC framework.
  *
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
  * @licence		http://www.opensource.org/licenses/mit-license.php
  */

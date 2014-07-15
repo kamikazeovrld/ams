@@ -224,7 +224,7 @@ class MY_Typography extends CI_Typography {
 
 		$str = preg_replace(array_keys($table), $table, $str);
 
-		// ADDED BY David McReynolds of Daylight Studio 7/12/2012 to deal with DWOO parsing errors
+		// ADDED BY David McReynolds of Saisai 7/12/2012 to deal with DWOO parsing errors
 		// Examples:
 		// {safe_mailto(&#8220;my_email@example.com&#8221;)}
 		// {safe_mailto(&#8216;my_email@example.com&#8217;, &#8216;my_email@example.com&#8217;)}

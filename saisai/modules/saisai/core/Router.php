@@ -1,14 +1,14 @@
 <?php (defined('BASEPATH')) OR exit('No direct script access allowed');
 /**
  * SAISAI CMS
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
  *
  * @package		SAISAI CMS
- * @author		David McReynolds @ Daylight Studio
- * @link		http://www.getsaisaicms.com
+ * @author		Jabulani Mpofu @ Saisai
+ * @link		http://www.getfuelcms.com
  */
 
 // ------------------------------------------------------------------------
@@ -21,7 +21,7 @@
  * @package		SAISAI CMS
  * @subpackage	Third Party
  * @category	Third Party
- * @author		Changes by David McReynolds @ Daylight Studio. Original Author info is below
+ * @author		Changes by Jabulani Mpofu @ Saisai. Original Author info is below
  */
 
 

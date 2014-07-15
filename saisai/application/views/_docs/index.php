@@ -1,5 +1,5 @@
 <h1>Site Documentation for <?=$this->config->item('site_name', 'saisai')?></h1>
-<p>The following contains documentation regarding your SAISAI CMS website. This site is running SAISAI CMS <?=SAISAI_VERSION?>. Additional SAISAI documentation can be found at <a href="http://docs.getsaisaicms.com" target="_blank">docs.getsaisaicms.com</a>.</p>
+<p>The following contains documentation regarding your SAISAI CMS website. This site is running SAISAI CMS <?=SAISAI_VERSION?>. Additional SAISAI documentation can be found at <a href="http://docs.getfuelcms.com" target="_blank">docs.getfuelcms.com</a>.</p>
 <ul>
 	<li><a href="#what">What is SAISAI CMS?</a></li>
 	<li><a href="#modules">Modules</a></li>
@@ -17,10 +17,10 @@
 </ul>
 
 <h2 id="what">What is SAISAI CMS?</h2>
-<p><a href="http://getsaisaicms.com" target="_blank">SAISAI CMS</a> is a hybrid of a CMS and a framework.
+<p><a href="http://getfuelcms.com" target="_blank">SAISAI CMS</a> is a hybrid of a CMS and a framework.
 At it's core, SAISAI is a PHP/MySQL, modular-based development platform built on top of the popular <a href="http://www.codeigniter.com" target="_blank">CodeIgniter</a> framework. </p>
 
-<p>Learn more at <a href="http://getsaisaicms.com" target="_blank">getsaisaicms.com</a>.</p>
+<p>Learn more at <a href="http://getfuelcms.com" target="_blank">getfuelcms.com</a>.</p>
 
 <h2 id="modules">Modules</h2>
 <p>The <?=$this->saisai->config('site_name')?> website contains the following modules.</p>
@@ -30,7 +30,7 @@ At it's core, SAISAI is a PHP/MySQL, modular-based development platform built on
 	<li><strong>Site</strong> - The following modules are part of the core functionality of SAISAI CMS:
 		<ul>
 			<li><strong><a href="#dashboard">Dashboard</a></strong> - an area for modules to display immediate relevant content such as recently modified pages and a link to this page.</li>
-			<li><strong><a href="#pages">Pages</a></strong> - create website pages. Pages created in the CMS will take precedence over any <a href="http://docs.getsaisaicms.com/general/pages-variables" target="_blank">static pages</a>.</li>
+			<li><strong><a href="#pages">Pages</a></strong> - create website pages. Pages created in the CMS will take precedence over any <a href="http://docs.getfuelcms.com/general/pages-variables" target="_blank">static pages</a>.</li>
 			<li><strong><a href="#navigation">Navigation</a></strong> - create navigation items.</li>
 			<li><strong><a href="#blocks">Blocks</a></strong> - create reusable block elements (e.g. headers, footers, callouts, etc).</li>
 			<li><strong><a href="#categories">Categories</a></strong> - create categories to group records together.</li>
@@ -82,7 +82,7 @@ At it's core, SAISAI is a PHP/MySQL, modular-based development platform built on
 
 <h2 id="pages" class="ico ico_pages"><img src="<?=img_path('icons/ico_layout.png', 'saisai')?>" alt="Pages" /> <a href="<?=saisai_url('pages')?>">Pages</a></h2>
 <p>A page in SAISAI CMS is a combination of assigning a <a href="#layouts">layout</a> and layout variables, to a URI location (e.g. company/contact).</p>
-<p>More can be read about creating pages and variables in the <a href="http://docs.getsaisaicms.com/general/pages-variables" target="_blank">SAISAI CMS User Guide</a>.</p>
+<p>More can be read about creating pages and variables in the <a href="http://docs.getfuelcms.com/general/pages-variables" target="_blank">SAISAI CMS User Guide</a>.</p>
 
 <h3 id="layouts"><img src="<?=img_path('icons/ico_layout.png', 'saisai')?>" alt="Layouts" /> Layouts</h3>
 <p>Layouts are predefined HTML files located in the <dfn><?=APPPATH?>views/_layouts</dfn> folder and are used for placing content in your site pages.
@@ -122,7 +122,7 @@ as page URLS and image paths. The most common are:</p>
 	<li><strong>{docs_path('my_doc.doc')}</strong> - inserts the pdf path based (e.g. /assets/pdfs/my_doc.doc).</li>
 	<li><strong>{safe_mailto('info@mysite.com', 'Contact Us')}</strong> - creates a mailto link but uses javascript to help obufiscate it from email harvesting bots.</li>
 </ul>
-<p><a href="http://docs.getsaisaicms.com/general/template-parsing" target="_blank">Click here for a more complete list.</a></p>
+<p><a href="http://docs.getfuelcms.com/general/template-parsing" target="_blank">Click here for a more complete list.</a></p>
 
 <h3>Inline Editing</h3>
 <p>SAISAI CMS allows you to edit the contents of a page within the context of your site. To do so, you must first be logged into the CMS, which if you are reading this, you already are.

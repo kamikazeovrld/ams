@@ -24,7 +24,7 @@
  * @link		http://philsturgeon.co.uk/code/codeigniter-dwoo
  */
 
-// Modified by David McReynolds @ Daylight Studio to automatically create the compile directory if it doesn't exist 9/16/10'
+// Modified by Jabulani Mpofu @ Saisai to automatically create the compile directory if it doesn't exist 9/16/10'
 
 include(SAISAI_PATH . 'libraries/dwoo/dwooAutoload.php');
 
@@ -47,7 +47,7 @@ class MY_Parser extends CI_Parser {
 		}
 		$this->_ci =& get_instance();
 
-		// added by David McReynolds @ Daylight Studio 9/16/10 to prevent problems of axing the entire directory
+		// added by Jabulani Mpofu @ Saisai 9/16/10 to prevent problems of axing the entire directory
 		$this->_ci->load->helper('directory');
 		$this->_ci = & get_instance();
 		
@@ -70,7 +70,7 @@ class MY_Parser extends CI_Parser {
 		}
 		
 		// set these manually since inherited from CI_Parser
-		// added by David McReynolds @ Daylight Studio 1/26/12 to set custom delimiters
+		// added by Jabulani Mpofu @ Saisai 1/26/12 to set custom delimiters
 		if (isset($config['l_delim'])) $this->l_delim = $config['l_delim'];
 		if (isset($config['r_delim'])) $this->r_delim = $config['r_delim'];
 		
@@ -87,7 +87,7 @@ class MY_Parser extends CI_Parser {
 	public function spawn()
 	{
 		// try to create directory if it doesn't exist'
-		// added by David McReynolds @ Daylight Studio 9/16/10 to prevent problems of axing the entire directory
+		// added by Jabulani Mpofu @ Saisai 9/16/10 to prevent problems of axing the entire directory
 		if (!is_dir($this->_parser_compile_dir))
 		{
 			@mkdir($this->_parser_compile_dir, DIR_WRITE_MODE, TRUE);
@@ -114,7 +114,7 @@ class MY_Parser extends CI_Parser {
 			$security->allowPhpFunction($this->_parser_allowed_php_functions);
 			$dwoo->setSecurityPolicy($security);
 
-			// added by David McReynolds @ Daylight Studio 11/26/11
+			// added by Jabulani Mpofu @ Saisai 11/26/11
 			return $dwoo;
 		}
 
@@ -158,14 +158,14 @@ class MY_Parser extends CI_Parser {
 	 * @return	string
 	 */
 	
-	// Changed default return to TRUE by David McReynolds @ Daylight Studio 12/21/10
+	// Changed default return to TRUE by Jabulani Mpofu @ Saisai 12/21/10
 	// removed is_include parameter and changed to use compile parameter instead 11/26/11
 	public function string_parse($string, $data = array(), $return = TRUE, $cache_id = NULL)
 	{
 		return $this->_parse_compiled($string, $data, $return, $cache_id);
 	}
 
-	// Changed default return to TRUE by David McReynolds @ Daylight Studio 12/21/10
+	// Changed default return to TRUE by Jabulani Mpofu @ Saisai 12/21/10
 	// removed is_include parameter and changed to use compile parameter instead 11/26/11
 	public function parse_string($string, $data = array(), $return = TRUE, $cache_id = NULL)
 	{
@@ -259,18 +259,18 @@ class MY_Parser extends CI_Parser {
 			$dwoo = !isset($this->_dwoo) ? self::spawn() : $this->_dwoo;
 			
 			// check for existence of dwoo object... may not be there if folder is not writable
-			// added by David McReynolds @ Daylight Studio 1/20/11
+			// added by David McReynolds @ Saisai 1/20/11
 			if (!empty($dwoo))
 			{
 				// Create the compiler instance
 				$compiler = new Dwoo_Compiler();
 
-				// added by David McReynolds @ Daylight Studio 1/22/12
+				// added by David McReynolds @ Saisai 1/22/12
 				$compiler->setDelimiters($this->l_delim, $this->r_delim);
 
 				
 				//Add a pre-processor to help fix javascript {}
-				// added by David McReynolds @ Daylight Studio 11/04/10
+				// added by David McReynolds @ Saisai 11/04/10
 				$callback = create_function('$compiler', '
 					$string = $compiler->getTemplateSource();
 					
@@ -301,7 +301,7 @@ class MY_Parser extends CI_Parser {
 			else
 			{
 				// load SAISAI language file because it has the proper error
-				// added by David McReynolds @ Daylight Studio 1/20/11
+				// added by David McReynolds @ Saisai 1/20/11
 				$this->_ci->load->module_language(SAISAI_FOLDER, 'saisai');
 				throw(new Exception(lang('error_folder_not_writable', $this->_ci->config->item('cache_path'))));
 			}

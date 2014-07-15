@@ -1,16 +1,16 @@
 <?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
 /**
  * SAISAI CMS
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
  *
  * @package		SAISAI CMS
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getsaisaicms.com/general/license
- * @link		http://www.getsaisaicms.com
+ * @license		http://docs.getfuelcms.com/general/license
+ * @link		http://www.getfuelcms.com
  * @filesource
  */
 
@@ -36,8 +36,8 @@
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
- * @link		http://docs.getsaisaicms.com/libraries/inspection
+ * @author		Jabulani Mpofu @ Saisai
+ * @link		http://docs.getfuelcms.com/libraries/inspection
  */
 
 // --------------------------------------------------------------------
@@ -364,7 +364,7 @@ class Inspection {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_class extends Inspection_base {
@@ -602,7 +602,7 @@ class Inspection_class extends Inspection_base {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_function extends Inspection_base {
@@ -629,7 +629,7 @@ class Inspection_function extends Inspection_base {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_method extends Inspection_base {
@@ -660,7 +660,7 @@ class Inspection_method extends Inspection_base {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_property extends Inspection_base {
@@ -696,7 +696,7 @@ class Inspection_property extends Inspection_base {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_param extends Inspection_base {
@@ -798,7 +798,7 @@ class Inspection_param extends Inspection_base {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_comment {
@@ -1263,7 +1263,7 @@ class Inspection_comment {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		TRUE
  */
 class Inspection_base {

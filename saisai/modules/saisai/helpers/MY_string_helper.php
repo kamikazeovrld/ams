@@ -2,16 +2,16 @@
 
 /**
  * SAISAI CMS
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
  *
  * @package		SAISAI CMS
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getsaisaicms.com/general/license
- * @link		http://www.getsaisaicms.com
+ * @license		http://docs.getfuelcms.com/general/license
+ * @link		http://www.getfuelcms.com
  * @filesource
  */
 
@@ -26,8 +26,8 @@
  * @package		SAISAI CMS
  * @subpackage	Helpers
  * @category	Helpers
- * @author		David McReynolds @ Daylight Studio
- * @link		http://docs.getsaisaicms.com/helpers/my_string_helper
+ * @author		Jabulani Mpofu @ Saisai
+ * @link		http://docs.getfuelcms.com/helpers/my_string_helper
  */
 
 // --------------------------------------------------------------------

@@ -75,7 +75,7 @@
  *                         draggable
  *                         Improved the serialize method to use a default (and settable) regular expression.
  *                         Added tableDnDupate() and tableDnDSerialize() to be called when you are outside the table
- * 2011-03-12  Daylight Studio added try catch when outside of table so it won't throw errors
+ * 2011-03-12  Saisai added try catch when outside of table so it won't throw errors
  */
 jQuery.tableDnD = {
     /** Keep hold of the current table being dragged */
@@ -272,7 +272,7 @@ jQuery.tableDnD = {
                 // TODO worry about what happens when there are multiple TBODIES
                 if (movingDown && jQuery.tableDnD.dragObject != currentRow) {
 	
-					// added by Daylight Studio 3/12/11
+					// added by Saisai 3/12/11
 					try{
                     	jQuery.tableDnD.dragObject.parentNode.insertBefore(jQuery.tableDnD.dragObject, currentRow.nextSibling);
 					} catch(e)
@@ -281,7 +281,7 @@ jQuery.tableDnD = {
 					}
                 } else if (! movingDown && jQuery.tableDnD.dragObject != currentRow) {
 
-					// added by Daylight Studio 3/12/11
+					// added by Saisai 3/12/11
 					try{
 	                    jQuery.tableDnD.dragObject.parentNode.insertBefore(jQuery.tableDnD.dragObject, currentRow);
 					} catch(e)

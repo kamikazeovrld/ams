@@ -20,7 +20,7 @@
 	
 	<?php if (isset($latest_saisai_version) AND ! empty($latest_saisai_version)) : ?>
 		<div class="update_notice">
-			<a href="http://www.getsaisaicms.com" target="_blank">SAISAI CMS <?php echo $latest_saisai_version; ?></a> is available!<br />
+			<a href="http://www.getfuelcms.com" target="_blank">SAISAI CMS <?php echo $latest_saisai_version; ?></a> is available!<br />
 			You are on version <em><?php echo SAISAI_VERSION; ?></em><br />
 			Please update now.
 		</div>

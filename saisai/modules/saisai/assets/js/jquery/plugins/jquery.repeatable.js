@@ -1,8 +1,8 @@
 /*
 (c) Copyrights 2011
 
-Author David McReynolds
-Daylight Studio
+Author Jabulani Mpofu
+Saisai
 dave@thedaylightstudio.com
 */
 

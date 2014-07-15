@@ -102,7 +102,7 @@
 			settings = $.extend({
 				cookieId: "treeview",
 
-				// CHANGED BY David McReynolds 9/10/2013 of Daylight Studio to use super cookie so that we only have one cookie used to save this state info
+				// CHANGED BY Jabulani Mpofu 9/10/2013 of Saisai to use super cookie so that we only have one cookie used to save this state info
 				groupCookieId: "treeview"
 			}, settings);
 			
@@ -176,13 +176,13 @@
 					data[i] = $(e).is(":has(>ul:visible)") ? 1 : 0;
 				});
 
-				// CHANGED BY David McReynolds 9/10/2013 of Daylight Studio to use super cookie so that we only have one cookie used to save this state info
+				// CHANGED BY Jabulani Mpofu 9/10/2013 of Saisai to use super cookie so that we only have one cookie used to save this state info
 				$.supercookie(settings.groupCookieId, settings.cookieId, data.join(""), settings.cookieOptions );
 			}
 			
 			function deserialize() {
 
-				// CHANGED BY David McReynolds 9/10/2013 of Daylight Studio to use super cookie so that we only have one cookie used to save this state info
+				// CHANGED BY Jabulani Mpofu 9/10/2013 of Saisai to use super cookie so that we only have one cookie used to save this state info
 				var stored = $.supercookie(settings.groupCookieId, settings.cookieId);
 				if ( stored ) {
 					var data = stored.split("");

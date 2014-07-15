@@ -10,7 +10,7 @@
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @link		http://docs.getsaisaicms.com/libraries/cache
+ * @link		http://docs.getfuelcms.com/libraries/cache
  */
 
 class Cache
@@ -166,7 +166,7 @@ class Cache
 		fclose($f1);
 		fclose($f2);
 
-		// Added by Daylight Studio 
+		// Added by Saisai
 		@chmod($expiry_file, FILE_WRITE_MODE);
 		@chmod($cache_file, FILE_WRITE_MODE);
 	}

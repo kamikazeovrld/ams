@@ -1,7 +1,7 @@
 /**
  * Checks form fields to make sure they haven't changed before saving
  *
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
  * @licence		http://www.opensource.org/licenses/mit-license.php
  */

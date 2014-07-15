@@ -277,7 +277,7 @@ CREATE TABLE `saisai_users` (
 
 INSERT INTO `saisai_users` (`id`, `user_name`, `password`, `email`, `first_name`, `last_name`, `language`, `reset_key`, `salt`, `super_admin`, `active`)
 VALUES
-  (1, 'admin', 'f4c99eae874755b97610d650be565f1ac42019d1', 'info@getsaisaicms.com', 'Admin', 'test', 'english', '', '429c6e14342dd7a63c510007a1858c26', 'yes', 'yes');
+  (1, 'admin', 'f4c99eae874755b97610d650be565f1ac42019d1', 'info@getfuelcms.com', 'Admin', 'test', 'english', '', '429c6e14342dd7a63c510007a1858c26', 'yes', 'yes');
 
 
 

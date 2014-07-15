@@ -1,16 +1,16 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed'); 
 /**
  * SAISAI CMS
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
  *
  * @package		SAISAI CMS
- * @author		David McReynolds @ Daylight Studio
+ * @author		David McReynolds @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getsaisaicms.com/general/license
- * @link		http://www.getsaisaicms.com
+ * @license		http://docs.getfuelcms.com/general/license
+ * @link		http://www.getfuelcms.com
  */
 
 // ------------------------------------------------------------------------
@@ -23,8 +23,8 @@
  * @package		SAISAI CMS
  * @subpackage	Models
  * @category	Models
- * @author		David McReynolds @ Daylight Studio
- * @link		http://docs.getsaisaicms.com/models/saisai_pagevariables_model
+ * @author		David McReynolds @ Saisai
+ * @link		http://docs.getfuelcms.com/models/saisai_pagevariables_model
  */
 
 require_once('base_module_model.php');
@@ -406,7 +406,7 @@ class Saisai_pagevariables_model extends Base_module_model {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		David McReynolds @ Saisai
  * @prefix		$var->
  */
 class Saisai_pagevariable_model extends Data_record {
@@ -452,7 +452,7 @@ class Saisai_pagevariable_model extends Data_record {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		David McReynolds @ Saisai
  * @prefix		$var->
  */
 // --------------------------------------------------------------------

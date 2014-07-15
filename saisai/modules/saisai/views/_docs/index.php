@@ -1,4 +1,4 @@
-<a href="http://www.getsaisaicms.com" target="_blank"><img src="<?=img_path('saisai_logo.png', 'user_guide')?>" id="saisai_logo" title="Visit getsaisaicms.com" alt="SAISAI CMS" /></a>
+<a href="http://www.getfuelcms.com" target="_blank"><img src="<?=img_path('saisai_logo.png', 'user_guide')?>" id="saisai_logo" title="Visit getfuelcms.com" alt="SAISAI CMS" /></a>
 
 <h1>What is SAISAI CMS?</h1>
 <p>At it's core, SAISAI CMS is a modular based, CodeIgniter development platform for

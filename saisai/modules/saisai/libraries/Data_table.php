@@ -1,16 +1,16 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
  * SAISAI CMS
- * http://www.getsaisaicms.com
+ * http://www.getfuelcms.com
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
  *
  * @package		SAISAI CMS
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getsaisaicms.com/general/license
- * @link		http://www.getsaisaicms.com
+ * @license		http://docs.getfuelcms.com/general/license
+ * @link		http://www.getfuelcms.com
  */
 
 // ------------------------------------------------------------------------
@@ -25,8 +25,8 @@
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
- * @link		http://docs.getsaisaicms.com/libraries/data_table
+ * @author		Jabulani Mpofu @ Saisai
+ * @link		http://docs.getfuelcms.com/libraries/data_table
  */
 // ------------------------------------------------------------------------
 
@@ -966,7 +966,7 @@ class Data_table {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		FALSE
  */
 class Data_table_body {
@@ -989,7 +989,7 @@ class Data_table_body {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		FALSE
  */
 class Data_table_row {
@@ -1024,7 +1024,7 @@ class Data_table_row {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		FALSE
  */
 class Data_table_header {
@@ -1051,7 +1051,7 @@ class Data_table_header {
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @author		David McReynolds @ Daylight Studio
+ * @author		Jabulani Mpofu @ Saisai
  * @autodoc		FALSE
  */
 class Data_table_field {

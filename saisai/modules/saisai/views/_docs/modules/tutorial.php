@@ -732,4 +732,4 @@ place that function right inside the &lt;h1&gt; tag in the article view and insi
 
 
 <h2>Now What?</h2>
-<p>If you are wanting to create more advanced modules, <a href="<?=user_guide_url('modules/advanced')?>">click here</a>. If you have any question, <a href="http://www.getsaisaicms.com/forums">meet us in the forum</a>.</p>
+<p>If you are wanting to create more advanced modules, <a href="<?=user_guide_url('modules/advanced')?>">click here</a>. If you have any question, <a href="http://www.getfuelcms.com/forums">meet us in the forum</a>.</p>

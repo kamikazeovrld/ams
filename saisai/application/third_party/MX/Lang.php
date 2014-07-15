@@ -44,7 +44,7 @@
  * @package		SAISAI CMS
  * @subpackage	Third Party
  * @category	Third Party
- * @author		Changes by David McReynolds @ Daylight Studio.
+ * @author		Changes by Jabulani Mpofu @ Saisai.
  */
 
 if (CI_VERSION < 2) {

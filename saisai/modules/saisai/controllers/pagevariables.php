@@ -10,7 +10,7 @@ class Pagevariables extends Module {
 
 	
 	// Thanks floorish!
-	// http://www.getsaisaicms.com/forums/discussion/comment/1216/#Comment_1216
+	// http://www.getfuelcms.com/forums/discussion/comment/1216/#Comment_1216
 	public function inline_edit($field = NULL, $page_id = NULL)
 	{
 

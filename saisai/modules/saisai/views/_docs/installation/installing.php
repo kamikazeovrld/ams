@@ -2,7 +2,7 @@
 <p>SAISAI CMS uses CodeIgniter. If you are familiar with installing CodeIgniter, then many of the following steps will seem familiar to you.</p>
 <p>The following are steps to installing SAISAI:</p>
 <ol>
-	<li>Download the latest version from <a href="http://www.getsaisaicms.com" target="_blank">getsaisaicms.com</a></li>
+	<li>Download the latest version from <a href="http://www.getfuelcms.com" target="_blank">getfuelcms.com</a></li>
 	<li>Place the downloaded folder onto your webserver. Note that the <dfn>saisai/data_backup</dfn>, <dfn>saisai/install</dfn> and <dfn>saisai/scripts</dfn> folders should be a folders inaccessible from the web if using .htaccess.</li>
 	<li>Browse to the index page. You should see a page of similar instructions as below.</li>
 	<li>Alter your Apache .htaccess file to the proper RewriteBase directory. The default is your web servers root directory. <strong>If you do not have mod_rewrite enabled you will need to change the $config['index_page'] from blank to 'index.php' in <strong>saisai/application/config.php</strong></strong></li>

@@ -14,4 +14,4 @@
 
 <p>And last but not least, the growing SAISAI CMS community that has taken the time to provide valuable feedback, bug fixes, and suggestions.</p>
 
-<p class="important">If you feel like you should be on this list, <?=safe_mailto('info@getsaisaicms.com', 'please send us an email')?>.</p>
+<p class="important">If you feel like you should be on this list, <?=safe_mailto('info@getfuelcms.com', 'please send us an email')?>.</p>

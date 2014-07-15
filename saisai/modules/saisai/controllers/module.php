@@ -182,7 +182,7 @@ class Module extends Saisai_base_controller {
 		$this->load->library('data_table');
 	
 		// check the model for a filters method as well and merge it with the property value
-		// added per http://www.getsaisaicms.com/forums/discussion/760/filter-dropdown/#Item_2
+		// added per http://www.getfuelcms.com/forums/discussion/760/filter-dropdown/#Item_2
 		if (method_exists($this->model, 'filters'))
 		{
 			$this->filters = array_merge($this->filters, $this->model->filters($this->filters));
@@ -1260,7 +1260,7 @@ class Module extends Saisai_base_controller {
 		if (!empty($field))
 		{
 			
-			// added per pierlo in Forum (http://www.getsaisaicms.com/forums/discussion/673/saisai_helper-saisai_edit-markers)
+			// added per pierlo in Forum (http://www.getfuelcms.com/forums/discussion/673/saisai_helper-saisai_edit-markers)
 			$columns = explode(':', $field);
 			
 			// special case if you use the word required

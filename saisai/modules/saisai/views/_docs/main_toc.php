@@ -40,7 +40,7 @@
 				
 				<h3>Additional Resources</h3>
 				<ul>
-					<li><a href="http://www.getsaisaicms.com/blog">SAISAI CMS's Blog</a></li>
+					<li><a href="http://www.getfuelcms.com/blog">SAISAI CMS's Blog</a></li>
 					<li><a href="http://www.thedaylightstudio.com/the-whiteboard/categories/saisai-cms">Daylight's Blog</a></li>
 					<li><a href="http://codeigniter.com">CodeIgniter Website</a></li>
 				</ul>

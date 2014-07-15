@@ -126,8 +126,8 @@
 							<div class="circle"><object type="image/svg+xml" width="30" height="27" data="<?=img_path('_template_icons.svg#map') ?>"></object></div>
 						</div>
 						<div class="content_block">
-							<a class="cta" href="http://docs.getsaisaicms.com" target="_blank" style="margin-top: 20px;">User Guide <object type="image/svg+xml" width="30" height="27" data="<?=img_path('_template_icons.svg#rightarrow') ?>"></object></a>
-							<h4>Visit the <a href="http://docs.getsaisaicms.com" target="_blank">1.0 user guide</a> online</h4>
+							<a class="cta" href="http://docs.getfuelcms.com" target="_blank" style="margin-top: 20px;">User Guide <object type="image/svg+xml" width="30" height="27" data="<?=img_path('_template_icons.svg#rightarrow') ?>"></object></a>
+							<h4>Visit the <a href="http://docs.getfuelcms.com" target="_blank">1.0 user guide</a> online</h4>
 						</div>
 					</li>
 					<li>
@@ -141,11 +141,11 @@
 
 
 							<ul class="bullets">
-								<li>Need help? Visit the <a href="http://forum.getsaisaicms.com" target="_blank">SAISAI CMS Forum</a>.</li>
+								<li>Need help? Visit the <a href="http://forum.getfuelcms.com" target="_blank">SAISAI CMS Forum</a>.</li>
 								<li>Found a bug? <a href="https://github.com/daylightstudio/SAISAI-CMS/issues" target="_blank">Report it on GitHub</a>.</li>
 								<li>Subscribe to our <a href="http://twitter.com/saisaicms">Twitter feed</a> for SAISAI CMS notifications.</li>
 								<li>Visit our <a href="http://twitter.com/blog" target="_blank">blog</a> for tips and news.</li>
-								<li>Visit our <a href="http://www.getsaisaicms.com/developers" target="_blank">developer page</a> for additional modules.</li>
+								<li>Visit our <a href="http://www.getfuelcms.com/developers" target="_blank">developer page</a> for additional modules.</li>
 							</ul>
 
 							<p>To change the contents of this homepage, edit the <strong>saisai/application/views/home.php</strong> file.</p>
@@ -161,11 +161,11 @@
 	<footer class="row footer">
 		<nav class="mainnav">
 			<ul>
-				<li class="first active"><a href="http://www.getsaisaicms.com" target="_blank">Home</a></li>
-				<li><a href="http://getsaisaicms.com/features" target="_blank">Features</a></li>
-				<li><a href="http://getsaisaicms.com/developers" target="_blank">Developers</a></li>
-				<li><a href="http://getsaisaicms.com/support" target="_blank">Support</a></li>
-				<li class="last"><a href="http://getsaisaicms.com/blog" target="_blank">Blog</a></li>
+				<li class="first active"><a href="http://www.getfuelcms.com" target="_blank">Home</a></li>
+				<li><a href="http://getfuelcms.com/features" target="_blank">Features</a></li>
+				<li><a href="http://getfuelcms.com/developers" target="_blank">Developers</a></li>
+				<li><a href="http://getfuelcms.com/support" target="_blank">Support</a></li>
+				<li class="last"><a href="http://getfuelcms.com/blog" target="_blank">Blog</a></li>
 			</ul>
 		</nav>
 		<p class="colophon">SAISAI CMS is developed with love by <a href="http://thedaylightstudio.com" target="_blank">Daylight Studio</a> <object type="image/svg+xml" width="25" height="25" data="<?=img_path('_template_icons.svg#daylight') ?>"></object> &copy; <?php echo date("Y"); ?> Run for Daylight LLC, All Rights Reserved.</p>
