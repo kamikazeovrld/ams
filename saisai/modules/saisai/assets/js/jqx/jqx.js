@@ -1,6 +1,6 @@
 /**
  * JQX Framework
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * A lightweight javascript MVC framework.
  *

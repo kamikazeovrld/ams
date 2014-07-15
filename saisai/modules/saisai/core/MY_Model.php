@@ -1,7 +1,7 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 /**
  * SAISAI CMS
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
@@ -9,8 +9,8 @@
  * @package		SAISAI CMS
  * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getfuelcms.com/general/license
- * @link		http://www.getfuelcms.com
+ * @license		http://www.saisai.co/general/license
+ * @link		http://www.saisai.co
  */
 
 // ------------------------------------------------------------------------
@@ -28,7 +28,7 @@
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com/libraries/my_model
+ * @link		http://docs.saisai.co/libraries/my_model
  * @prefix		$this->example_model->
  */
 
@@ -4206,7 +4206,7 @@ class MY_Model extends CI_Model {
 
 /**
  * SAISAI CMS
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
@@ -4214,8 +4214,8 @@ class MY_Model extends CI_Model {
  * @package		SAISAI CMS
  * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getfuelcms.com/general/license
- * @link		http://www.getfuelcms.com
+ * @license		http://www.saisai.co/general/license
+ * @link		http://www.saisai.co
  */
 
 // ------------------------------------------------------------------------
@@ -4230,7 +4230,7 @@ class MY_Model extends CI_Model {
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com/libraries/my_model
+ * @link		http://docs.saisai.co/libraries/my_model
  * @prefix		$data_set->
  */
 
@@ -4360,7 +4360,7 @@ class Data_set {
 
 /**
  * SAISAI CMS
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
@@ -4368,8 +4368,8 @@ class Data_set {
  * @package		SAISAI CMS
  * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getfuelcms.com/general/license
- * @link		http://www.getfuelcms.com
+ * @license		http://www.saisai.co/general/license
+ * @link		http://www.saisai.co
  */
 
 // ------------------------------------------------------------------------
@@ -4388,7 +4388,7 @@ class Data_set {
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com/libraries/my_model
+ * @link		http://docs.saisai.co/libraries/my_model
  * @prefix		$record->
  */
 
@@ -5596,7 +5596,7 @@ class Data_record {
 
 /**
  * SAISAI CMS
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
@@ -5604,8 +5604,8 @@ class Data_record {
  * @package		SAISAI CMS
  * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getfuelcms.com/general/license
- * @link		http://www.getfuelcms.com
+ * @license		http://www.saisai.co/general/license
+ * @link		http://www.saisai.co
  */
 
 // ------------------------------------------------------------------------
@@ -5621,7 +5621,7 @@ class Data_record {
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com/libraries/my_model
+ * @link		http://docs.saisai.co/libraries/my_model
  * @prefix		$record->
  */
 

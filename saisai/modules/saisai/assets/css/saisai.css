@@ -36,7 +36,7 @@ iframe { border: none; }
 
 /*----------------------------------------------------------------------------------------------------
 UI FORM FIELDS 
-Inspired by Zero Design http://www.getfuelcms.com/forums/discussion/470/updated-admin-ui/#Item_13
+Inspired by Zero Design http://www.saisai.co/forums/discussion/470/updated-admin-ui/#Item_13
 ----------------------------------------------------------------------------------------------------*/
 ::-moz-focus-inner { border: 0; padding: 0; }
 input[type="search"]::-webkit-search-decoration { display: none; }
@@ -272,7 +272,7 @@ input[type="file"] { border: 1px dashed #ccc; border-radius: 3px; padding: 10px;
 }
 /*----------------------------------------------------------------------------------------------------
 END FORM FIELDS 
-Inspired by Zero Design http://www.getfuelcms.com/forums/discussion/470/updated-admin-ui/#Item_13
+Inspired by Zero Design http://www.saisai.co/forums/discussion/470/updated-admin-ui/#Item_13
 ----------------------------------------------------------------------------------------------------*/
 
 /* generic classes */

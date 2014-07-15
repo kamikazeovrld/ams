@@ -2,7 +2,7 @@
 
 /**
  * SAISAI CMS
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * An open source application Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
@@ -10,8 +10,8 @@
  * @package		SAISAI CMS
  * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getfuelcms.com/general/license
- * @link		http://www.getfuelcms.com
+ * @license		http://www.saisai.co/general/license
+ * @link		http://www.saisai.co
  * @filesource
  */
 
@@ -24,7 +24,7 @@
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com
+ * @link		http://docs.saisai.co
  */
 
 class Saisai_hooks

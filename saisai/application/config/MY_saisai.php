@@ -9,17 +9,17 @@
 $config['saisai_path'] = 'saisai/';
 
 // the name to be displayed on the top left of the admin
-$config['site_name'] = 'My Website';
+$config['site_name'] = 'saisai ams';
 
 // whether the admin backend is enabled or not
-$config['admin_enabled'] = FALSE;
+$config['admin_enabled'] = TRUE;
 
 // options are cms, views, and auto. 
 // cms pulls views and variables from the database,
 // views mode pulls views from the views folder and variables from the _variables folder,
 // and the auto option will first check the database for a page and if it doesn't exist or is 
 // not published, it will then check for the corresponding view file.
-$config['saisai_mode'] = 'views';
+$config['saisai_mode'] = 'auto';
 
 // specifies which modules are allowed to be used in the saisai admin
 $config['modules_allowed'] = array(
@@ -35,7 +35,7 @@ $config['default_pwd'] = 'admin';
 // maximum number of paramters that can be passed to the page. Used to cut down on queries to the db.
 // If it is an array, then it will loop through the array using the keys to match against a regular expression:
 // $config['max_page_params'] = array('about/news/' => 1);
-$config['max_page_params'] = 0;
+$config['max_page_params'] = array('news' => 1, 'ads' => 1);
 
 // will auto search view files. 
 // If the URI is about/history and the about/history view 

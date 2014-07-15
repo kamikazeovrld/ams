@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
  	<title>
 		<?php 
-			if (!empty($is_blog)) :
+			if (!empty($is_blog)) :;
 				echo $CI->saisai_blog->page_title($page_title, ' : ', 'right');
 			else:
 				echo saisai_var('page_title', '');
@@ -31,4 +31,5 @@
 			<header class="page_header">
 				<div class="logo"><object type="image/svg+xml" width="160" height="145" data="<?php echo img_path('_template_icons.svg#saisai') ?>"></object></div>
 				<h1><?php echo saisai_var('heading')?></h1>
-			</header>		
+				<h1>this is the header block</h1>
+			</header>

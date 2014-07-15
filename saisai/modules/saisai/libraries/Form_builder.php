@@ -1,7 +1,7 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
  * SAISAI CMS
- * http://www.getfuelcms.com
+ * http://www.saisai.co
  *
  * An open source Content Management System based on the 
  * Codeigniter framework (http://codeigniter.com)
@@ -9,8 +9,8 @@
  * @package		SAISAI CMS
  * @author		Jabulani Mpofu @ Saisai
  * @copyright	Copyright (c) 2014, Run for Daylight LLC.
- * @license		http://docs.getfuelcms.com/general/license
- * @link		http://www.getfuelcms.com
+ * @license		http://www.saisai.co/general/license
+ * @link		http://www.saisai.co
  */
 
 // ------------------------------------------------------------------------
@@ -37,7 +37,7 @@
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com/libraries/form_builder
+ * @link		http://docs.saisai.co/libraries/form_builder
  */
 
 class Form_builder {
@@ -3961,7 +3961,7 @@ class Form_builder {
  * @subpackage	Libraries
  * @category	Libraries
  * @author		Jabulani Mpofu @ Saisai
- * @link		http://docs.getfuelcms.com/libraries/form_builder.html
+ * @link		http://docs.saisai.co/libraries/form_builder.html
  * @autodoc		FALSE
  */
 

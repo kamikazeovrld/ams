@@ -10,7 +10,7 @@
  * @package		SAISAI CMS
  * @subpackage	Libraries
  * @category	Libraries
- * @link		http://docs.getfuelcms.com/libraries/cache
+ * @link		http://docs.saisai.co/libraries/cache
  */
 
 class Cache

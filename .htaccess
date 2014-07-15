@@ -2,7 +2,7 @@ Options +FollowSymLinks
 
 <IfModule mod_rewrite.c>
 	RewriteEngine On
-	RewriteBase /
+	RewriteBase /ams/
 
 	<Files .*>
 		Order Deny,Allow
@@ -10,10 +10,10 @@ Options +FollowSymLinks
 	</Files>
 
 	# Allow asset folders through
-	RewriteRule ^(saisai/modules/(.+)?/assets/(.+)) - [L]
+	RewriteRule ^(fuel/modules/(.+)?/assets/(.+)) - [L]
 
 	# Protect application and system files from being viewed
-	RewriteRule ^(saisai/install/.+|saisai/crons/.+|saisai/data_backup/.+|saisai/codeigniter/.+|saisai/modules/.+|saisai/application/.+) - [F,L]
+	RewriteRule ^(fuel/install/.+|fuel/crons/.+|fuel/data_backup/.+|fuel/codeigniter/.+|fuel/modules/.+|fuel/application/.+) - [F,L]
 
 
 	RewriteCond %{REQUEST_FILENAME} !-f

@@ -4,7 +4,7 @@ require_once('module.php');
 class Sitevariables extends Module {
 	
 	// Thanks floorish!
-	// http://www.getfuelcms.com/forums/discussion/comment/1216/#Comment_1216
+	// http://www.saisai.co/forums/discussion/comment/1216/#Comment_1216
 	public function inline_edit($var = NULL, $field = NULL)
 	{
 		// try to get the id, if $var is a name

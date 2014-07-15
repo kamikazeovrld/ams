@@ -23,40 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="-4.133333" vertical-offset="2" max-vertical-offset="630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="147" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0509915" vertical-offset="0" max-vertical-offset="468">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Asset.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/libraries/Asset.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="16" selection-start="273" selection-end="287" vertical-scroll-proportion="-5.0" vertical-offset="27" max-vertical-offset="29718">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/saisai/application/third_party/MX/Config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="2" selection-start="188" selection-end="188" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="1890">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="613">
               <folding />
             </state>
           </provider>
@@ -72,18 +42,37 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/saisai/application/third_party/MX/Config.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/saisai/application/config/database.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/saisai/application/config/config.php" />
+        <option value="$PROJECT_DIR$/saisai/application/models/advertisers_model.php" />
+        <option value="$PROJECT_DIR$/saisai/application/config/MY_saisai_modules.php" />
+        <option value="$PROJECT_DIR$/saisai/application/models/polls_model.php" />
+        <option value="$PROJECT_DIR$/saisai/application/models/ads_model.php" />
+        <option value="$PROJECT_DIR$/saisai/application/models/textmatchs_model.php" />
+        <option value="$PROJECT_DIR$/saisai/application/models/clicktovisits_model.php" />
+        <option value="$PROJECT_DIR$/saisai/application/views/_admin/ads.php" />
+        <option value="$PROJECT_DIR$/saisai/application/config/MY_saisai.php" />
+        <option value="$PROJECT_DIR$/saisai/application/views/_blocks/header.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/core/Loader.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/assets/js/jqx/jqx.js" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/config/saisai.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/core/MY_DB_mysql_driver.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/core/MY_DB_mysql_result.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/core/MY_Hooks.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/core/MY_Model.php" />
+        <option value="$PROJECT_DIR$/saisai/modules/saisai/helpers/browser_helper.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="52" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="716" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -111,7 +100,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,44 +118,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saisai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="saisai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fuel" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/saisai/application/views/" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -195,27 +159,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="52" width="1301" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49961567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3437014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -235,39 +199,49 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/ads_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="161" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/advertisers_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="39" selection-start="3001" selection-end="3001" vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/polls_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="2941" selection-end="2941" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/textmatchs_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="5" selection-start="3050" selection-end="3050" vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="1332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/clicktovisits_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="5" selection-start="3059" selection-end="3059" vertical-scroll-proportion="0.0" vertical-offset="784" max-vertical-offset="1332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/views/ads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/views/_blocks/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="36" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="720" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/saisai/application/config/asset.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/saisai/application/config/MY_config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="-4.133333" vertical-offset="2" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/libraries/Asset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="273" selection-end="287" vertical-scroll-proportion="-5.0" vertical-offset="27" max-vertical-offset="29718">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saisai/application/third_party/MX/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="188" selection-end="188" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="1890">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -275,7 +249,212 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="147" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0509915" vertical-offset="0" max-vertical-offset="468">
+        <state line="1" column="147" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0509915" vertical-offset="0" max-vertical-offset="468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/libraries/Asset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="273" selection-end="287" vertical-scroll-proportion="0.35526314" vertical-offset="27" max-vertical-offset="29718" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/third_party/MX/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="188" selection-end="188" vertical-scroll-proportion="0.32061067" vertical-offset="0" max-vertical-offset="1890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.4" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="32" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.26642334" vertical-offset="826" max-vertical-offset="1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/config/MY_saisai_modules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="36" selection-start="1885" selection-end="1885" vertical-scroll-proportion="-15.703704" vertical-offset="422" max-vertical-offset="1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/ads_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="161" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/advertisers_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="39" selection-start="3001" selection-end="3001" vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="34" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="6624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/views/_variables/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/config/MY_saisai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="60" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0" vertical-offset="666" max-vertical-offset="1800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/views/_blocks/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="36" selection-start="113" selection-end="113" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/views/ads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/clicktovisits_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="5" selection-start="3059" selection-end="3059" vertical-scroll-proportion="-11.62963" vertical-offset="784" max-vertical-offset="1332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/polls_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="2941" selection-end="2941" vertical-scroll-proportion="-30.037037" vertical-offset="233" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/models/textmatchs_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="5" selection-start="3050" selection-end="3050" vertical-scroll-proportion="-11.62963" vertical-offset="784" max-vertical-offset="1332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/application/core/MY_Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/libraries/Saisai_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="1" selection-start="79" selection-end="115" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="25632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/assets/css/saisai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="274" column="24" selection-start="8417" selection-end="8417" vertical-scroll-proportion="0.0" vertical-offset="4814" max-vertical-offset="12780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/assets/js/jqx/jqx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/controllers/module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1262" column="42" selection-start="37460" selection-end="37460" vertical-scroll-proportion="-4.037037" vertical-offset="22607" max-vertical-offset="39618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/controllers/pagevariables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="7" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.3703704" vertical-offset="98" max-vertical-offset="1044" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/controllers/sitevariables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="99" selection-end="99" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/core/Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="298" selection-end="298" vertical-scroll-proportion="-4.185185" vertical-offset="67" max-vertical-offset="10620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/config/saisai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="617" selection-end="617" vertical-scroll-proportion="-4.037037" vertical-offset="341" max-vertical-offset="8370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/core/MY_DB_mysql_driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="28" selection-start="703" selection-end="703" vertical-scroll-proportion="-4.185185" vertical-offset="319" max-vertical-offset="6516" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/core/MY_DB_mysql_result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="28" selection-start="715" selection-end="715" vertical-scroll-proportion="-4.185185" vertical-offset="319" max-vertical-offset="2322" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/core/MY_Hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="28" selection-start="724" selection-end="724" vertical-scroll-proportion="-4.185185" vertical-offset="319" max-vertical-offset="3996" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/core/MY_Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5623" column="28" selection-start="148628" selection-end="148628" vertical-scroll-proportion="-4.037037" vertical-offset="101105" max-vertical-offset="105372" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_array_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="696" selection-end="696" vertical-scroll-proportion="-4.5185184" vertical-offset="328" max-vertical-offset="3600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_date_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="679" selection-end="679" vertical-scroll-proportion="-4.5185184" vertical-offset="328" max-vertical-offset="13374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_directory_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="745" selection-end="745" vertical-scroll-proportion="-4.3703704" vertical-offset="386" max-vertical-offset="4896" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_file_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="717" selection-end="717" vertical-scroll-proportion="-4.3703704" vertical-offset="386" max-vertical-offset="3510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_html_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="762" selection-end="762" vertical-scroll-proportion="-4.2222223" vertical-offset="390" max-vertical-offset="2754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_language_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="746" selection-end="746" vertical-scroll-proportion="-4.2222223" vertical-offset="390" max-vertical-offset="2628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_string_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="28" selection-start="731" selection-end="731" vertical-scroll-proportion="-4.037037" vertical-offset="413" max-vertical-offset="5832" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/MY_url_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="768" selection-end="768" vertical-scroll-proportion="-4.2222223" vertical-offset="372" max-vertical-offset="7470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/ajax_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="720" selection-end="720" vertical-scroll-proportion="-4.5185184" vertical-offset="364" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/browser_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="682" selection-end="682" vertical-scroll-proportion="0.20547946" vertical-offset="345" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saisai/modules/saisai/helpers/asset_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="28" selection-start="901" selection-end="901" vertical-scroll-proportion="0.19453925" vertical-offset="408" max-vertical-offset="7056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <folding />
         </state>
       </provider>
