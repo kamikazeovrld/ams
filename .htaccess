@@ -1,0 +1,30 @@
+Options +FollowSymLinks
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteBase /
+
+	<Files .*>
+		Order Deny,Allow
+		Deny From All
+	</Files>
+
+	# Allow asset folders through
+	RewriteRule ^(saisai/modules/(.+)?/assets/(.+)) - [L]
+
+	# Protect application and system files from being viewed
+	RewriteRule ^(saisai/install/.+|saisai/crons/.+|saisai/data_backup/.+|saisai/codeigniter/.+|saisai/modules/.+|saisai/application/.+) - [F,L]
+
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+
+	RewriteRule .* index.php/$0 [L]
+	
+	# Prevents access to dot files (.git, .htaccess) - security.
+	RewriteCond %{SCRIPT_FILENAME} -d
+	RewriteCond %{SCRIPT_FILENAME} -f
+	RewriteRule "(^|/)\." - [F]
+	
+</IfModule>
+Options -Indexes

@@ -1,0 +1,1 @@
+<p><a href="<?=saisai_url('site_docs')?>">Click here for your site documentation.</a></p>
